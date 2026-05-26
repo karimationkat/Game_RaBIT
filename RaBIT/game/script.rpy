@@ -42,5 +42,4 @@ label enter_hotel_begin:
     
 
     # This ends the game.
-
-    return
+return
