@@ -4,6 +4,8 @@
 # name of the character.
 
 define rb = Character("RaBIT")
+define main_char = Character("Main Character")
+define test_char = Character("Test Character")
 
 
 # The game starts here.
