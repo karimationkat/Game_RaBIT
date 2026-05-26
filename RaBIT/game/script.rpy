@@ -26,6 +26,19 @@ label start:
 
     rb "We're here =D"
     rb "Do you want to go over the mission again?"
+    menu:
+         "Go over the mission again":
+          jump info_dump_tuto
+         "I'm fine":
+          jump enter_hotel_begin
+    
+label info_dump_tuto:
+
+rb "into text"
+
+label enter_hotel_begin:
+
+"Lets start"
     
 
     # This ends the game.
